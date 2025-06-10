@@ -50,5 +50,3 @@ La aplicación utiliza múltiples capas de seguridad:
 Los usuarios reciben notificaciones por correo electrónico (confirmación de asistencia, reportes, etc.) a través de **SendGrid**.
 
 ---
-
-## 📂 Organización del repositorio
