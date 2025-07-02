@@ -1,20 +1,20 @@
-# 📘 AsisteUCO
+#  AsisteUCO
 
 **AsisteUCO** es una aplicación web para la toma de asistencia académica, diseñada con un enfoque moderno utilizando **arquitectura limpia**, **microservicios** y tecnologías de última generación tanto en el frontend como en el backend.
 
 ---
 
-## 🎯 Propósito
+##  Propósito
 
 Facilitar el registro y control de asistencia en instituciones educativas mediante una solución segura, escalable y fácil de usar.
 
 ---
 
-## 🧠 Arquitectura y tecnologías
+##  Arquitectura y tecnologías
 
-### 🔧 Backend
+###  Backend
 
-- **Lenguaje:** Java 21 / Java 24 *(según disponibilidad estable)*
+- **Lenguaje:** Java 21
 - **Arquitectura:** Clean Architecture
 - **Estilo de servicios:** Microservicios
 - **Base de datos:** PostgreSQL con Hibernate (ORM)
@@ -26,7 +26,7 @@ Facilitar el registro y control de asistencia en instituciones educativas median
 - **Mensajería y logs:** Apache Message Catalog (integración de catálogos de mensajes)
 - **Email transaccional:** SendGrid
 
-### 🖥️ Frontend
+###  Frontend
 
 - **Framework:** React
 - **Herramienta de build:** Vite
@@ -34,7 +34,7 @@ Facilitar el registro y control de asistencia en instituciones educativas median
 
 ---
 
-## 🔐 Seguridad
+##  Seguridad
 
 La aplicación utiliza múltiples capas de seguridad:
 
@@ -45,7 +45,7 @@ La aplicación utiliza múltiples capas de seguridad:
 
 ---
 
-## 📫 Notificaciones
+##  Notificaciones
 
 Los usuarios reciben notificaciones por correo electrónico (confirmación de asistencia, reportes, etc.) a través de **SendGrid**.
 
