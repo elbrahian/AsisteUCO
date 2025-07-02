@@ -4,12 +4,6 @@
 
 ---
 
-##  Propósito
-
-Facilitar el registro y control de asistencia en instituciones educativas mediante una solución segura, escalable y fácil de usar.
-
----
-
 ##  Arquitectura y tecnologías
 
 ###  Backend
